@@ -3,7 +3,7 @@
  * @Date: 2021/9/18 下午4:02
  * @Desc:
  */
-package main
+package client
 
 import "fmt"
 

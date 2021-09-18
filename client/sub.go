@@ -5,6 +5,6 @@
  */
 package client
 
-func Sub(a, b int) int {
+func SubInt(a, b int) int {
 	return a - b
 }
